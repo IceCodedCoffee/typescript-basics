@@ -1,0 +1,1 @@
+// import * from 'Path to file';
